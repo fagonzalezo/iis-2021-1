@@ -18,6 +18,7 @@ image:
 				<td>Feb 22</td>
 				<td>1. Introducción</td>
 				<td>
+					Clase Feb 22 (<a href= "https://drive.google.com/file/d/13A6w8qpi3etVAFLPsPcvohYGe0Lkr0RL/view?usp=sharing">video</a>)
 					[Russell10] Chap 1 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf">slides</a>)<br>
 					[AI-edX] Introduction to AI (<a href= "http://ai.berkeley.edu/slides/Lecture%201%20--%20Introduction/SP14%20CS188%20Lecture%201%20--%20Introduction.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/b414886f442a41e4b5fd0408de837e53/">video</a>)<br>
 					<a href= "https://github.com/fagonzalezo/iis-2018-2/raw/master/catedra-cc-unal.pdf">Inteligencia Artificial</a>, Fabio González, (<a href= "https://drive.google.com/file/d/16wHaIRn0GCoephK_uLCROw9V6CcvTf37/view?usp=sharing">video</a>)<br> 
