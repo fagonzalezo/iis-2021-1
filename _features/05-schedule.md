@@ -33,6 +33,7 @@ image:
 				</td>
 				<td>
 					Clase Mar 1 (<a href= "https://drive.google.com/file/d/1-Hy_671nfcFNa7F-NV7fC5IbIX4r_Ynm/view?usp=sharing">video</a>)<br>
+					Clase Mar 3 (<a href= "https://drive.google.com/file/d/1IEjSUbyu1wp016eATXuZp60Q0DHZTXRj/view?usp=sharing">video</a>)<br>
 					[Russell10] Chap 2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf">slides</a>) <br>
 				</td>
 				<td>
