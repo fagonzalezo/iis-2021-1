@@ -47,7 +47,7 @@ image:
 				<td>
 					[AI-edX] Agents and Search (<a href= "http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/">video</a>)<br>	[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>)  and Chap 4 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf">slides</a>) <br>
 					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a><br>
-					<b>Clase virtual</b>: Agentes, búsquedas, BFS, DFS (<a href= "https://drive.google.com/file/d/1hxerUmA98tGmbXNyghmE9qQnxSKTkoAG/view?usp=sharing">video</a>)<br>
+					<b>Clase asíncrona</b>: Agentes, búsquedas, BFS, DFS (<a href= "https://drive.google.com/file/d/1hxerUmA98tGmbXNyghmE9qQnxSKTkoAG/view?usp=sharing">video</a>)<br>
 					<b>Sesión práctica</b> (<a href= "https://drive.google.com/file/d/1gBEHz6k_zq5fFImPN48P80D7syFz09JQ/view?usp=sharing">video</a>)<br>
 				</td>
 				<td>
@@ -63,7 +63,8 @@ image:
 					[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>)  and Chap 4 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf">slides</a>) <br>
 					[AI-edX] A* Search and Heuristics (<a href= "http://ai.berkeley.edu/slides/Lecture%203%20--%20Informed%20Search/SP14%20CS188%20Lecture%203%20--%20Informed%20Search.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/76f9a53b7aad47638ff968db5938d841/">video</a>)<br>
 					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a><br>
-					<b>Clase virtual</b>: A* y heurísticas (<a href= "https://drive.google.com/file/d/1oTtFMYrqQECkB_XfkYpsZItmpyWqfTIL/view?t=780">video 1</a>)(<a href= "https://drive.google.com/file/d/1ATKLXE2cxSo8YXuklzXAU6aI7OLvSvGy/view?t=15">video 2</a>)<br>
+					<b>Clase asíncrona</b>: A* y heurísticas (<a href= "https://drive.google.com/file/d/1oTtFMYrqQECkB_XfkYpsZItmpyWqfTIL/view?t=780">video 1</a>)(<a href= "https://drive.google.com/file/d/1ATKLXE2cxSo8YXuklzXAU6aI7OLvSvGy/view?t=15">video 2</a>)<br>
+					<b>Sesión práctica</b> (<a href= "https://drive.google.com/file/d/1wAMzKt9A-n9xUXt7QPrnTI0A4Wm6M_PH/view?usp=sharing">video</a>)<br>
 				</td>
 				<td>
 				</td>
@@ -77,6 +78,7 @@ image:
 					[Russell10] Sect 18.1, 18.2, 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					An Introduction to Machine Learning (<a href= "https://fagonzalezo.github.io/iis-2019-1/intro-ml.pdf">slides</a>)<br>
 					<a href= "https://colab.research.google.com/drive/1J4p2g0xbRUS5u6-whz9vWUABiGZvuneA?usp=sharing">Notebook: Clasificación binaria usando un modelo lineal</a><br>
+					<b>Clase asíncrona</b>: Introducción al ML (<a href= "https://drive.google.com/file/d/1eK8pneZVxuMekVCbH3vu5NiKwxoEtisA/view">video 1</a>)(<a href= "https://drive.google.com/file/d/12jIt3OVI8T2F4LXPQXBCaO79u4bew8if/view">video 2</a>)<br>
 				</td>
 				<td>
 				</td>
