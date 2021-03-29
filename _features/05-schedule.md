@@ -78,7 +78,8 @@ image:
 					[Russell10] Sect 18.1, 18.2, 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					An Introduction to Machine Learning (<a href= "https://fagonzalezo.github.io/iis-2019-1/intro-ml.pdf">slides</a>)<br>
 					<a href= "https://colab.research.google.com/drive/1J4p2g0xbRUS5u6-whz9vWUABiGZvuneA?usp=sharing">Notebook: Clasificación binaria usando un modelo lineal</a><br>
-					<b>Clase asíncrona</b>: Introducción al ML (<a href= "https://drive.google.com/file/d/1eK8pneZVxuMekVCbH3vu5NiKwxoEtisA/view">video 1</a>)(<a href= "https://drive.google.com/file/d/12jIt3OVI8T2F4LXPQXBCaO79u4bew8if/view">video 2</a>)<br>
+					<b>Clase asíncrona</b>: Introducción al ML (<a href= "https://drive.google.com/file/d/1eK8pneZVxuMekVCbH3vu5NiKwxoEtisA/view">video 1</a>)(<a href= "https://drive.google.com/file/d/12jIt3OVI8T2F4LXPQXBCaO79u4bew8if/view">video 2</a>)(<a href= "https://drive.google.com/file/d/1RHOZ6fvOweeMeJIvhGTBEyGbB1nEdpuZ/view?t=86">video 3</a>)<br>
+					<b>Sesión práctica</b> (<a href= "https://drive.google.com/file/d/1yM8p_X0USZMyxekzGqkpuIhboXq608vt/view">video</a>)<br>
 				</td>
 				<td>
 				</td>
@@ -93,6 +94,7 @@ image:
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) 20.2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>)<br>
 					Naïve Bayes (<a href= "https://www-users.cs.umn.edu/~kumar001/dmbook/dmslides/chap5_alternative_classification.pdf">slides 49-60</a>)<br>
 					<a href= "https://colab.research.google.com/drive/1nkxk-h0cBICX2uTCSWaIF6YXhKNMhR8u?usp=sharing">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
+					<b>Clase asíncrona</b>: Clasificador Naïve Bayes (<a href= "https://drive.google.com/file/d/1R4oTUz_A8Cd1YkWVBB96njtCd1j9VdVp/view?t=25">video 1</a>)(<a href= "https://drive.google.com/file/d/1XwL-cYgttn5N24Zf5GRrvplme834-PVC/view">video 2</a>)
 				</td>
 				<td>
 				</td>
