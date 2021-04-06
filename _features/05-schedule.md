@@ -94,7 +94,7 @@ image:
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) 20.2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>)<br>
 					Naïve Bayes (<a href= "https://www-users.cs.umn.edu/~kumar001/dmbook/dmslides/chap5_alternative_classification.pdf">slides 49-60</a>)<br>
 					<a href= "https://colab.research.google.com/drive/1nkxk-h0cBICX2uTCSWaIF6YXhKNMhR8u?usp=sharing">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
-					<b>Clase asíncrona</b>: Clasificador Naïve Bayes (<a href= "https://drive.google.com/file/d/1R4oTUz_A8Cd1YkWVBB96njtCd1j9VdVp/view?t=25">video 1</a>)(<a href= "https://drive.google.com/file/d/1XwL-cYgttn5N24Zf5GRrvplme834-PVC/view">video 2</a>)
+					<b>Clase asíncrona</b>: Clasificador Naïve Bayes (<a href= "https://drive.google.com/file/d/15mXmUQMmV4du_8-NY93fdgolAM-yBbiI/view?usp=sharing">video 1</a>)(<a href= "https://drive.google.com/file/d/1XwL-cYgttn5N24Zf5GRrvplme834-PVC/view">video 2</a>)
 				</td>
 				<td>
 				</td>
