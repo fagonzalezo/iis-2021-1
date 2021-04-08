@@ -14,32 +14,32 @@ Los archivos deben enviarse a través del *File Request* correspondiente antes d
 
 ## Curso 1: Neural Networks and Deep Learning
 
-* **Entrega 1** (): 
+* **Entrega 1** (Mayo 2): 
   * Cuestionarios: 1, 2
   * Tareas de Programación: 1, 2
-  * Link: [file request](https://www.dropbox.com/request/JO5DG0aIFP6RGFlNp4RH)
-* **Entrega 2** ():
+  * Link: [file request](https://www.dropbox.com/request/JMsSQqtN6DopUJpvxpAl)
+* **Entrega 2** (Mayo 9):
   * Cuestionarios: 3, 4
   * Tareas de Programación: 3, 4
-  * Link: [file request](https://www.dropbox.com/request/ui5uYKaPgalyKrEzWGaq)
+  * Link: [file request](https://www.dropbox.com/request/NVfIOacw8xXOnjF4bIK0)
 
 ## Curso 2: Improving Deep Neural Networks
 
-* **Entrega 3** ():
+* **Entrega 3** (Mayo 16):
   * Cuestionarios: 1
   * Tareas de Programación: 1, 2, 3
-  * Link: [file request](https://www.dropbox.com/request/eMu3daHsogeFJgYfjHXa)
-* **Entrega 4** ():
+  * Link: [file request](https://www.dropbox.com/request/0LJtbW3VWYIiHK548N3g)
+* **Entrega 4** (Mayo 23):
   * Cuestionarios: 2, 3
   * Tareas de Programación: 4, 5
-  * Link: [file request](https://www.dropbox.com/request/kJboYobyrRXehNDUt3AF)
+  * Link: [file request](https://www.dropbox.com/request/Fn2Mj4arpwakovGUjD2T)
 
 
 ## Curso 3: Structuring Machine Learning Projects
 
-* **Entrega 5** ():
+* **Entrega 5** (Mayo 30):
   * Cuestionarios: 1, 2
-  * Link: [file request](https://www.dropbox.com/request/0mheM9K03vmYfq5Txz5Q)
+  * Link: [file request](https://www.dropbox.com/request/NQXjEvUMg4jRgoloqVQP)
   
 
 
