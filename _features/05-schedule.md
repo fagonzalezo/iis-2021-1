@@ -93,8 +93,9 @@ image:
 				<td>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) 20.2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>)<br>
 					Naïve Bayes (<a href= "https://www-users.cs.umn.edu/~kumar001/dmbook/dmslides/chap5_alternative_classification.pdf">slides 49-60</a>)<br>
-					<a href= "https://colab.research.google.com/drive/1nkxk-h0cBICX2uTCSWaIF6YXhKNMhR8u?usp=sharing">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
-					<b>Clase asíncrona</b>: Clasificador Naïve Bayes (<a href= "https://drive.google.com/file/d/15mXmUQMmV4du_8-NY93fdgolAM-yBbiI/view?usp=sharing">video 1</a>)(<a href= "https://drive.google.com/file/d/1XwL-cYgttn5N24Zf5GRrvplme834-PVC/view">video 2</a>)
+					<a href= "https://colab.research.google.com/drive/1nkxk-h0cBICX2uTCSWaIF6YXhKNMhR8u?usp=sharing">Notebook: Clasificación Lineal y Evaluación del Desempeño</a><br>
+					<b>Clase asíncrona</b>: Clasificador Naïve Bayes (<a href= "https://drive.google.com/file/d/15mXmUQMmV4du_8-NY93fdgolAM-yBbiI/view?usp=sharing">video 1</a>)(<a href= "https://drive.google.com/file/d/1XwL-cYgttn5N24Zf5GRrvplme834-PVC/view">video 2</a>)<br>
+					<b>Sesión práctica</b> (<a href= "https://drive.google.com/file/d/1cisr_EJCaXKQlDTtvl7hW99cKJ6nRhQq/view?usp=sharing">video</a>)<br>
 				</td>
 				<td>
 				</td>
@@ -104,9 +105,9 @@ image:
 				<td>3.2.3 Clasificación no lineal (k-nn, árboles de decisión)<br>
 				</td>
 				<td>
-					Árboles de Decisión (<a href= "https://drive.google.com/file/d/1RyjxtIVIjmvObChOfuf0lWveXMbWpxhs/view">video</a>)<br>
 					[Russell10] Sect 18.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1pvTLE_jx2cdnU3jCZ9T1hQk3d3jIxoh7">Notebook: Clasificación no lineal, complejidad y sobreajuste</a><br>
+					<b>Clase asíncrona</b>: Árboles de Decisión, K-nn (<a href= "https://drive.google.com/file/d/1RyjxtIVIjmvObChOfuf0lWveXMbWpxhs/view?t=50">video 1</a>)(<a href= "https://drive.google.com/file/d/1IRhxupbKaSO0ZvewBq4MobITk_rcMM1z/view?t=130">video 2</a>)<br>
 				</td>
 				<td>
 				</td>
