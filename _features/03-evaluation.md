@@ -6,10 +6,12 @@ subheading:
 image: 
 ---
 
-* Quices 25%
+* Quices 10%
+* Participación 10%
 * Examen 30%
-* Prácticas 10%
-* Entregas EDL Coursera 20%
-* Proyecto 15%
+* Talleres 10%
+* Entregas Coursera 20%
+* Quices Coursera 10%
+* Proyecto 10%
 
-Notas
+[Notas](https://docs.google.com/spreadsheets/d/1m7-lX9GvuO--VESdNOFQ6ZPuq_p6w3ucp3yNZyTnKt4/edit?usp=sharing)

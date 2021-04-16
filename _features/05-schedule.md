@@ -115,13 +115,14 @@ image:
 			<tr>
 				<td>Abr 19</td>
 				<td>
-					3.2.4 Support vector machines<br>
+					3.2.4 Support-vector machines<br>
 					3.2.5 Random Forest
 				</td>
 				<td>
 					[Russell10] Sect 18.9 y 18.10 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1kfy-4I9OyP7rQTdbsNs5UoM6GVi0Ig4P?usp=sharing">Notebook: Máquinas de vectores de soporte y selección de modelos</a><br>
 					<a href= "https://colab.research.google.com/drive/1MCfPiwOIG-v77YLUFW7iJmGVewiWAYbE">Notebook: Random Forests y exploración aleatorizada</a><br>
+					<b>Clase asíncrona</b>: Support-vector machines, random forest (<a href= "https://drive.google.com/file/d/1J-oOjZfh0oTWPPrwHoE5VA8irGQ41n81/view?usp=sharing">video 1</a>)(<a href= "https://drive.google.com/file/d/1rgXm_XtV8NHi0W3UlpSbkQOgTWdIzvgy/view?usp=sharing">video 2</a>)<br>
 				</td>
 				<td>
 				</td>
