@@ -154,7 +154,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>May 24</td>
+				<td>May 24-31</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
@@ -163,15 +163,17 @@ image:
 				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
 				</td>
 				<td>
+					<a href= "Proyecto_Final.pdf">Proyecto final</a>
 				</td>
 			</tr>
             <tr>
-				<td>May 31</td>
+				<td>Junio 7</td>
 				<td>
 				3.3 Aprendizaje no supervisado <br>
 				3.3.2 Clustering (agrupamiento)<br>
 				</td>
 				<td>
+					<b>Clase asíncrona</b>: Agrupamiento (<a href= "https://www.youtube.com/watch?v=6I7pWdW1KSE">video</a>)
 					<br>
 					<a href= "https://fagonzalezo.github.io/iis-2018-1/KMeans.pdf">K-Means</a><br>
 					<a href= "https://colab.research.google.com/drive/1_0Ipc_RqFNwBrVAc3HY4rZfDpKLHrbgR?usp=sharing">Notebook: Agrupamiento</a><br>
@@ -180,11 +182,12 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Jun 7</td>
+				<td>Jun 14</td>
 				<td>
 				    3.3.1 Reducción de la dimensionalidad <br>
 				</td>
 				<td>
+					<b>Clase asíncrona</b>: Reducción de la dimensionalidad con PCA (<a href= "https://www.youtube.com/watch?v=EX1397RTcEs">video</a>)<br>
 					Intro to PCA (<a href= "https://www.scribd.com/presentation/62790749/Intro-to-PCA">slides</a>)
 					<br>
 					A tutorial on principal component analysis (<a href= "https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf">pdf</a>)<br>

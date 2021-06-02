@@ -10,8 +10,9 @@ image:
 * Participación 10%
 * Examen 30%
 * Talleres 10%
-* Entregas Coursera 20%
-* Quices Coursera 10%
+* Coursera: 30%
+    * Cada entrega 4%
+    * Examen porcentaje restante hasta completar 30%
 * Proyecto 10%
 
 [Notas](https://docs.google.com/spreadsheets/d/1m7-lX9GvuO--VESdNOFQ6ZPuq_p6w3ucp3yNZyTnKt4/edit?usp=sharing)

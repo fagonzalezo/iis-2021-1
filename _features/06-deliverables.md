@@ -38,7 +38,7 @@ Los archivos deben enviarse a través del *File Request* correspondiente antes d
     * 1 cuestionario
     * 2 tareas de programación
   * Link: [file request](https://www.dropbox.com/request/0LJtbW3VWYIiHK548N3g)
-* **Entrega 4** (Mayo 30):
+* **Entrega 4** (Junio 9):
   * Improving Deep Neural Networks
     * Cuestionarios: 2, 3
     * Tareas de Programación: 4, 5
@@ -46,7 +46,7 @@ Los archivos deben enviarse a través del *File Request* correspondiente antes d
     * 1 cuestionario
     * 1 tarea de programación
   * Link: [file request](https://www.dropbox.com/request/Fn2Mj4arpwakovGUjD2T)
-* **Entrega 5** (Junio 6):
+* **Entrega 5** (Junio 9):
   * Structuring Machine Learning Projects
     * Cuestionarios: 1, 2
   * Introduction to Deep Learning (semanas 5 y 6)
