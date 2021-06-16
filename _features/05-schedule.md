@@ -167,7 +167,7 @@ image:
 				</td>
 			</tr>
             <tr>
-				<td>Junio 7</td>
+				<td>Junio 7-14</td>
 				<td>
 				3.3 Aprendizaje no supervisado <br>
 				3.3.2 Clustering (agrupamiento)<br>
@@ -182,7 +182,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Jun 14</td>
+				<td>Jun 21</td>
 				<td>
 				    3.3.1 Reducción de la dimensionalidad <br>
 				</td>
@@ -194,15 +194,28 @@ image:
 					Reducción de la dimensionalidad con PCA (<a href= "https://colab.research.google.com/drive/1UO8TZ4oRsjHhDOaIbU3xM0Ndsf_5QQb8">notebook</a>)
 				</td>
 				<td>
+					Junio 23: Quiz clustering
 				</td>				
 			</tr>
 			<tr>
-				<td>Jun 14</td>
+				<td>Jun 28</td>
 				<td>
 				</td>
 				<td>
 				</td>
 				<td>
+					Junio 30: Examen redes neuronales
+				</td>				
+			</tr>
+			<tr>
+				<td>Julio 26</td>
+				<td>
+				</td>
+				<td>
+				</td>
+				<td>
+				Julio 26: Examen final
+				Julio 31: Entrega proyecto final
 				</td>				
 			</tr>
 		</small>
