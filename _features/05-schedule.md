@@ -214,7 +214,7 @@ image:
 				<td>
 				</td>
 				<td>
-				Julio 26: Examen final
+				Julio 26: Examen final <br>
 				Julio 31: Entrega proyecto final
 				</td>				
 			</tr>
